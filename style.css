@@ -17,6 +17,6 @@ body {
 .icon:hover img {
   transform: scale(1.2);
   filter: brightness(1.4);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1)
+  box-shadow: 0 8px 20px rgba(255, 250, 250, 0.1)
 }
 
